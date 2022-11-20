@@ -1,1 +1,1 @@
-Open in Opposite Mode Option - Adds an option to open a long pressed URL in the respective other browsing mode
+ultralytics 8.1.15 add Python 3.12 compatibility (#8210)
