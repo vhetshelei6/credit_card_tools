@@ -1,1 +1,1 @@
-ultralytics 8.0.238 Explorer Ask AI feature and fixes (#7408)
+Download Manager - Extensive enhancements to the downloading functionality of Safari, check the preference page for more detailed info
