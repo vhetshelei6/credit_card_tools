@@ -1,1 +1,1 @@
-Update inference.cpp (bug) (#7279)
+Fix TFLite INT8 for OBB (#7989)
