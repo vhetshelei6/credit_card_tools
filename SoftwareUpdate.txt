@@ -1,1 +1,1 @@
-Remove unused variables (#8511)
+ultralytics 8.1.8 new model.save('filename.pt') method (#7886)
