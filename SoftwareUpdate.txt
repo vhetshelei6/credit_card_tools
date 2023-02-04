@@ -1,1 +1,1 @@
-Rename model_id to model.id (#8447)
+Add visuals in guides/distance-calculation.md (#7876)
