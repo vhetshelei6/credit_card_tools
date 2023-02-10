@@ -1,1 +1,1 @@
-Improve Docs arguments tables (#8415)
+Updated SQL Query Plot Code (#8120)
