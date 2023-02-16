@@ -1,1 +1,1 @@
-More robust PNNX downloads (#8866)
+New HUB Cloud Training docs page (#8174)
