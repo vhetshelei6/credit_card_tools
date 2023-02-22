@@ -1,1 +1,1 @@
-ultralytics 8.0.238 Explorer Ask AI feature and fixes (#7408)
+YOLOv8 INT8 TFLite Inference Example (#7317)
