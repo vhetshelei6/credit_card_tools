@@ -1,1 +1,1 @@
-New HUB Cloud Training docs page (#8174)
+Add integrations/gradio Docs page (#7935)
