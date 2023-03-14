@@ -1,1 +1,1 @@
-Pin duckdb<=0.9.2 to avoid 0.10.0 errors (#8181)
+Add TFLite Edge TPU Docs Integrations Page  (#8900)
