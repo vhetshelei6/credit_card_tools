@@ -1,1 +1,1 @@
-ultralytics 8.0.232 OpenCV 4.9.0 readonly np.array fix (#7256)
+Fix solution functions description + integrations/openvino.md cover image update (#8170)
