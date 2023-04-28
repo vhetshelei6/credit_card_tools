@@ -1,1 +1,1 @@
-ultralytics 8.1.12 new Results.show() and Results.save() (#8166)
+TensorRT FP16 export with dynamic=True (#7870)
