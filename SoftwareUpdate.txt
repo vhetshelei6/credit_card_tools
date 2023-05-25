@@ -1,1 +1,1 @@
-Remove OpenVINO INT8 RTDETRDecoder ops (#8219)
+Pin jax and jaxlib to fix tensorflowjs exports (#6988)
