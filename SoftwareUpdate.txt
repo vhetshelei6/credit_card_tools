@@ -1,1 +1,1 @@
-fix export tensorrt with dynamic size
+Add HeatMap guide in real-world-projects + Code in Solutions Directory (#6796)
