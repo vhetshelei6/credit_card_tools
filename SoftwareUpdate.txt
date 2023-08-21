@@ -1,1 +1,1 @@
-Fix Multi-GPU resume bug (#7328)
+Add C++ Classify inference example (#6868)
