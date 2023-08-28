@@ -1,1 +1,1 @@
-Update OpenVINO INT8 export (#7515)
+ultralytics 8.1.18 add cmake for building onnxsim on aarch64 (#8395)
