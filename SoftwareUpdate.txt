@@ -1,1 +1,1 @@
-Add HUB-SDK docs (#7775)
+ultralytics 8.1.0 YOLOv8 Oriented Bounding Box (OBB) release (#7463)
