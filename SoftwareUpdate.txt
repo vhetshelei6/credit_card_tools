@@ -1,1 +1,1 @@
-Add KaTeX support + updates to YOLOv9 model page (#8531)
+Add yolo_bbox2segment docs reference (#7751)
