@@ -1,1 +1,1 @@
-fix print val map
+Fix OpenVINO links (#7930)
