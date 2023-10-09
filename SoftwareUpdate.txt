@@ -1,1 +1,1 @@
-Segment TensorRT batch=3 fix (#7952)
+Docs updates: Add Explorer to tab, YOLOv5 in Guides and Usage in Quickstart (#7438)
