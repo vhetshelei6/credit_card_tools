@@ -1,1 +1,1 @@
-Update Colab notebook for YOLOv8.1 (#8660)
+Do RTDETR file suffix check using pathlib instead of string manipulations (#8525)
