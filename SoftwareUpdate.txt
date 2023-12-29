@@ -1,1 +1,1 @@
-Add docstrings to new HUB functions (#7576)
+Fix IS_PYTHON_3_12 bug (#9258)
