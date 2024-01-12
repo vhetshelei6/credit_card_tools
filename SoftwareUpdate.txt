@@ -1,1 +1,1 @@
-Update CI.md with CI links (#8786)
+ultralytics 8.0.231 use new pyproject.toml (#7185)
