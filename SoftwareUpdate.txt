@@ -1,1 +1,1 @@
-Remove unused variables (#8511)
+Pin jax and jaxlib to fix tensorflowjs exports (#6988)
