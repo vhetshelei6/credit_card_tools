@@ -1,1 +1,1 @@
-fix yolo classify model loading error (#9196)
+Clarify triton server boolean value (#8532)
