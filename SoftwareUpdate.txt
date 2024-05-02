@@ -1,1 +1,1 @@
-Fix Neural Magic links (#9144)
+Add OpenVINO Latency vs Throughput modes Docs page (#9001)
