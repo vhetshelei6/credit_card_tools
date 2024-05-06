@@ -1,1 +1,1 @@
-Compare plt.get_backend() in lowercase (#8409)
+Faster batch same_shapes (#8851)
