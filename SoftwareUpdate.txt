@@ -1,1 +1,1 @@
-Faster batch same_shapes (#8851)
+Resize angle, count, and stage on keypoint number change (#7598)
