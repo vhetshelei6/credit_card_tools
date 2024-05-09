@@ -1,1 +1,1 @@
-Resize angle, count, and stage on keypoint number change (#7598)
+Bump github/codeql-action from 2 to 3 in /.github/workflows (#7041)
