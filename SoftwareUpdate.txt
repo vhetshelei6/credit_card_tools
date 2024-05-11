@@ -1,1 +1,1 @@
-Add docs guide terminal images (#8819)
+Fix OpenVINO links (#7930)
