@@ -1,1 +1,1 @@
-Update inference.cpp (bug) (#7279)
+Fix xyxyxyxyn calculation, swap axis (#8249)
