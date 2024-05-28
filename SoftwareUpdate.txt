@@ -1,1 +1,1 @@
-Fixed dataloader CPU bottleneck for small batch sizes (#7659)
+Update YOLOv3 and YOLOv5 YAMLs (#7574)
